@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/onko-kiire/static/css/main.80d43c82.chunk.css",
+    "main.js": "/onko-kiire/static/js/main.8f152ca7.chunk.js",
+    "main.js.map": "/onko-kiire/static/js/main.8f152ca7.chunk.js.map",
+    "runtime-main.js": "/onko-kiire/static/js/runtime-main.c7649ce7.js",
+    "runtime-main.js.map": "/onko-kiire/static/js/runtime-main.c7649ce7.js.map",
+    "static/css/2.818011ed.chunk.css": "/onko-kiire/static/css/2.818011ed.chunk.css",
+    "static/js/2.26300e40.chunk.js": "/onko-kiire/static/js/2.26300e40.chunk.js",
+    "static/js/2.26300e40.chunk.js.map": "/onko-kiire/static/js/2.26300e40.chunk.js.map",
+    "static/js/3.4f1a5495.chunk.js": "/onko-kiire/static/js/3.4f1a5495.chunk.js",
+    "static/js/3.4f1a5495.chunk.js.map": "/onko-kiire/static/js/3.4f1a5495.chunk.js.map",
+    "index.html": "/onko-kiire/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/onko-kiire/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.80d43c82.chunk.css.map": "/onko-kiire/static/css/main.80d43c82.chunk.css.map",
+    "static/js/2.26300e40.chunk.js.LICENSE.txt": "/onko-kiire/static/js/2.26300e40.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7649ce7.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.26300e40.chunk.js",
+    "static/css/main.80d43c82.chunk.css",
+    "static/js/main.8f152ca7.chunk.js"
+  ]
+}
