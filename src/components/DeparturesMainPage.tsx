@@ -125,7 +125,7 @@ export const DeparturesMainPage = () => {
 
     return  <div style={{ width:"100%"}}>
             <h1>Onko Kiire?</h1>
-            <Carousel style={{ marginLeft:"20%", marginRight:"20%", height:"400px"}} activeIndex={index} onSelect={handleSelect}>
+            <Carousel style={{ marginLeft:"10%", marginRight:"10%", height:"400px"}} activeIndex={index} onSelect={handleSelect}>
                 <CarouselItem>
                     <div>
                         <h2>Kotoa kouluun</h2>
