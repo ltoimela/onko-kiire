@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/onko-kiire/static/css/main.80d43c82.chunk.css",
-    "main.js": "/onko-kiire/static/js/main.1d30cf36.chunk.js",
-    "main.js.map": "/onko-kiire/static/js/main.1d30cf36.chunk.js.map",
+    "main.js": "/onko-kiire/static/js/main.ee1bf50e.chunk.js",
+    "main.js.map": "/onko-kiire/static/js/main.ee1bf50e.chunk.js.map",
     "runtime-main.js": "/onko-kiire/static/js/runtime-main.c7649ce7.js",
     "runtime-main.js.map": "/onko-kiire/static/js/runtime-main.c7649ce7.js.map",
     "static/css/2.818011ed.chunk.css": "/onko-kiire/static/css/2.818011ed.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.818011ed.chunk.css",
     "static/js/2.26300e40.chunk.js",
     "static/css/main.80d43c82.chunk.css",
-    "static/js/main.1d30cf36.chunk.js"
+    "static/js/main.ee1bf50e.chunk.js"
   ]
 }
